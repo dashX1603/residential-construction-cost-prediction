@@ -1,0 +1,601 @@
+﻿id_proyecto,area_construida_m2,numero_habitaciones,numero_banos,numero_pisos,nivel_acabados,tipo_terreno,complejidad_diseno,acceso_obra,costo_construccion_crc
+OBRA-0001,163.6,4,2,1,Básico,Plano,Baja,Fácil,33237000
+OBRA-0002,281.3,4,2,1,Estándar,Plano,Baja,Fácil,90560000
+OBRA-0003,285.1,6,3,1,Premium,Plano,Media,Intermedio,119998000
+OBRA-0004,259.6,6,4,2,Básico,Plano,Media,Difícil,75370000
+OBRA-0005,246.8,5,2,1,Estándar,Plano,Media,Fácil,88955000
+OBRA-0006,178.7,3,1,2,Estándar,Plano,Baja,Fácil,57618000
+OBRA-0007,111.6,3,2,2,Estándar,Plano,Media,Fácil,30989000
+OBRA-0008,240.1,4,1,2,Premium,Plano,Media,Fácil,101866000
+OBRA-0009,,3,2,2,Estándar,Plano,Alta,Fácil,55663000
+OBRA-0010,165.3,3,1,1,Premium,Plano,Media,Intermedio,69182000
+OBRA-0011,189.7,3,,3,Estándar,Plano,Media,Intermedio,65204000
+OBRA-0012,72.2,1,1,1,Estándar,Plano,Media,Fácil,25377000
+OBRA-0013,246.8,4,2,2,Estándar,Pendiente moderada,Media,Fácil,91918000
+OBRA-0014,186.1,4,2,2,Premium,Plano,Media,Fácil,76352000
+OBRA-0015,286.2,6,3,1,Estándar,Plano,Media,Fácil,99858000
+OBRA-0016,200.7,4,3,2,Estándar,Plano,Alta,Difícil,84573000
+OBRA-0017,87.2,2,,1,Premium,,Media,Intermedio,36846000
+OBRA-0018,203.2,5,3,1,Estándar,Pendiente moderada,Media,Fácil,73710000
+OBRA-0019,129.3,4,2,2,Estándar,Plano,Baja,Intermedio,41497000
+OBRA-0020,104.7,3,2,1,Estándar,Pendiente moderada,Baja,Fácil,40530000
+OBRA-0021,174.4,5,3,2,Estándar,Plano,Media,Intermedio,63345000
+OBRA-0022,193.7,4,2,1,Estándar,Plano,Media,Fácil,67018000
+OBRA-0023,232.5,5,3,2,Premium,Plano,Baja,Fácil,84195000
+OBRA-0024,177.9,5,5,2,Estándar,Plano,Baja,Fácil,67066000
+OBRA-0025,239.1,3,2,2,Estándar,Pendiente pronunciada,Baja,Fácil,84408000
+OBRA-0026,,4,3,1,Estándar,Plano,Media,Difícil,67039000
+OBRA-0027,97.8,3,2,1,Estándar,Plano,Media,Fácil,41676000
+OBRA-0028,71.9,1,1,1,Estándar,Plano,Media,Fácil,36207000
+OBRA-0029,262.6,4,3,3,Estándar,Pendiente pronunciada,Baja,Fácil,96112000
+OBRA-0030,109.9,2,1,1,Premium,Plano,Baja,Difícil,50851000
+OBRA-0031,276.8,6,,1,Estándar,Plano,Media,Intermedio,91830000
+OBRA-0032,161.3,3,2,3,Estándar,Plano,Media,Fácil,63404000
+OBRA-0033,187.8,4,2,2,Estándar,,Media,Intermedio,69699000
+OBRA-0034,113.7,2,1,1,Básico,Plano,Baja,Fácil,23489000
+OBRA-0035,100.8,3,2,1,Estándar,Plano,Baja,Fácil,31883000
+OBRA-0036,98.7,2,,1,Estándar,Plano,Baja,Intermedio,32855000
+OBRA-0037,177.1,3,2,1,Estándar,Plano,Media,Intermedio,66428000
+OBRA-0038,267.9,6,3,2,Básico,Plano,Alta,Fácil,84536000
+OBRA-0039,141.4,2,2,3,Estándar,Pendiente moderada,Baja,Intermedio,47170000
+OBRA-0040,118.9,3,2,1,Estándar,Plano,Media,Fácil,39693000
+OBRA-0041,103.1,1,1,1,Básico,Pendiente pronunciada,Baja,Fácil,35577000
+OBRA-0042,241.7,4,3,1,Estándar,Plano,Media,Fácil,77009000
+OBRA-0043,273.1,5,3,1,Premium,Plano,Media,Intermedio,118898000
+OBRA-0044,,3,1,1,Estándar,Pendiente moderada,Media,,60383000
+OBRA-0045,75.3,2,1,1,Estándar,Plano,Media,Fácil,23000000
+OBRA-0046,167.3,3,2,1,Estándar,Pendiente moderada,Alta,Fácil,68908000
+OBRA-0047,258.1,6,3,1,Estándar,Pendiente moderada,Media,Fácil,96489000
+OBRA-0048,197.3,3,2,1,Premium,Plano,Media,Intermedio,79883000
+OBRA-0049,82.0,1,1,1,Estándar,Plano,Media,Difícil,30361000
+OBRA-0050,204.0,4,2,3,Estándar,Plano,Media,Difícil,76102000
+OBRA-0051,128.7,3,2,2,Básico,Plano,Media,Fácil,45132000
+OBRA-0052,126.3,2,1,2,Estándar,Plano,Alta,Fácil,41404000
+OBRA-0053,251.0,5,3,2,Básico,Pendiente moderada,Media,Intermedio,76063000
+OBRA-0054,245.6,6,3,1,Premium,Pendiente pronunciada,Media,Difícil,123685000
+OBRA-0055,153.7,3,2,2,Estándar,Plano,Media,Fácil,60939000
+OBRA-0056,118.2,3,1,1,Estándar,Plano,Baja,Fácil,38734000
+OBRA-0057,240.6,5,2,1,Estándar,Pendiente moderada,Alta,Fácil,88478000
+OBRA-0058,250.9,6,2,1,Premium,Plano,Media,Fácil,108664000
+OBRA-0059,206.0,4,2,2,Estándar,Pendiente moderada,Media,Fácil,74968000
+OBRA-0060,89.3,2,1,1,Estándar,Pendiente moderada,Media,Fácil,28088000
+OBRA-0061,90.6,3,1,1,Básico,Plano,Media,Intermedio,23000000
+OBRA-0062,222.3,3,2,2,Estándar,Plano,Media,Intermedio,82394000
+OBRA-0063,103.0,2,1,2,Estándar,Plano,Baja,Fácil,29475000
+OBRA-0064,184.0,3,1,1,Básico,Plano,Alta,Intermedio,67626000
+OBRA-0065,285.2,6,3,1,Estándar,Pendiente moderada,Media,Fácil,100258000
+OBRA-0066,106.1,4,3,1,Estándar,Plano,Media,Intermedio,38579000
+OBRA-0067,228.1,4,1,1,Estándar,Pendiente moderada,Baja,Fácil,85472000
+OBRA-0068,266.6,6,4,1,Estándar,Plano,Media,Intermedio,102491000
+OBRA-0069,162.7,2,1,1,Estándar,Plano,Alta,Fácil,61784000
+OBRA-0070,119.7,2,1,1,Estándar,Plano,Media,Fácil,35785000
+OBRA-0071,262.0,5,3,1,Estándar,Plano,Baja,Intermedio,80258000
+OBRA-0072,217.3,4,2,1,Estándar,Plano,Baja,Fácil,64621000
+OBRA-0073,223.5,4,2,1,Estándar,Plano,Media,Fácil,69182000
+OBRA-0074,136.3,2,,1,Premium,Plano,Alta,Intermedio,71584000
+OBRA-0075,84.3,2,1,2,Estándar,Plano,Alta,Fácil,31741000
+OBRA-0076,201.2,4,2,1,Estándar,Pendiente moderada,Media,Intermedio,75095000
+OBRA-0077,83.4,1,1,2,Estándar,Pendiente pronunciada,Baja,Fácil,24207000
+OBRA-0078,287.7,5,2,3,Estándar,Pendiente moderada,Media,Difícil,114443000
+OBRA-0079,116.8,4,1,2,Estándar,Pendiente pronunciada,Media,Fácil,41743000
+OBRA-0080,271.6,6,3,1,Estándar,Plano,Media,Fácil,93730000
+OBRA-0081,95.5,1,1,1,Básico,Pendiente moderada,Baja,Intermedio,30629000
+OBRA-0082,98.1,2,1,1,Premium,Plano,Alta,Fácil,48158000
+OBRA-0083,99.4,2,1,1,Estándar,Pendiente pronunciada,Baja,Fácil,40417000
+OBRA-0084,191.3,4,1,1,Básico,Plano,Baja,Fácil,43285000
+OBRA-0085,79.6,1,1,1,Estándar,Plano,Baja,Intermedio,37960000
+OBRA-0086,219.7,5,2,1,Estándar,Plano,Baja,Fácil,71825000
+OBRA-0087,107.3,1,1,2,Básico,Plano,Media,Fácil,35713000
+OBRA-0088,244.6,5,3,2,Estándar,Pendiente moderada,Media,Fácil,86519000
+OBRA-0089,99.2,2,1,1,Estándar,Pendiente moderada,Media,Difícil,36660000
+OBRA-0090,269.9,6,3,1,Premium,Pendiente moderada,Media,Intermedio,132014000
+OBRA-0091,70.5,1,1,1,Estándar,Plano,Media,Fácil,23000000
+OBRA-0092,129.6,3,1,1,Estándar,Pendiente pronunciada,Alta,Fácil,52146000
+OBRA-0093,,4,2,2,Estándar,Plano,Media,Fácil,59517000
+OBRA-0094,201.1,5,4,2,Estándar,Plano,Media,Fácil,73378000
+OBRA-0095,84.4,1,1,2,Estándar,Plano,Media,Fácil,35092000
+OBRA-0096,109.5,1,1,2,Estándar,Plano,Media,Intermedio,43153000
+OBRA-0097,139.9,3,2,1,Estándar,Plano,Media,Fácil,46832000
+OBRA-0098,178.2,4,2,1,Básico,,Media,Intermedio,56547000
+OBRA-0099,96.6,2,1,1,Premium,Plano,Alta,Difícil,50103000
+OBRA-0100,241.3,3,2,1,Básico,Plano,Media,Fácil,62676000
+OBRA-0101,273.0,6,3,1,Premium,Plano,Media,Fácil,110605000
+OBRA-0102,116.2,2,1,1,Estándar,Plano,Media,Fácil,44958000
+OBRA-0103,257.5,4,2,1,Estándar,Plano,Media,Fácil,88708000
+OBRA-0104,91.3,3,2,1,Premium,Plano,Alta,Fácil,46617000
+OBRA-0105,230.9,3,1,1,Estándar,Plano,Media,Fácil,74622000
+OBRA-0106,114.9,2,1,2,Básico,Plano,Media,Fácil,31118000
+OBRA-0107,98.5,2,1,1,Premium,Pendiente moderada,Media,Fácil,40738000
+OBRA-0108,72.9,2,1,1,Estándar,Plano,Media,Fácil,23000000
+OBRA-0109,190.7,4,2,1,Premium,Plano,Baja,Intermedio,83327000
+OBRA-0110,236.9,4,1,2,Premium,Plano,Baja,Intermedio,106212000
+OBRA-0111,153.2,3,1,3,Estándar,Plano,Alta,Fácil,66372000
+OBRA-0112,151.5,3,1,2,Estándar,Plano,Media,Fácil,54407000
+OBRA-0113,256.4,5,2,1,Básico,Plano,Media,Intermedio,79277000
+OBRA-0114,247.1,6,4,1,Básico,Pendiente moderada,Alta,Fácil,80313000
+OBRA-0115,119.4,2,1,1,Estándar,Pendiente moderada,Alta,Fácil,45334000
+OBRA-0116,85.2,2,1,1,Estándar,Plano,Baja,Fácil,25846000
+OBRA-0117,98.2,1,1,1,Básico,Plano,Media,Intermedio,29432000
+OBRA-0118,123.1,3,1,2,Premium,Plano,Alta,Fácil,63441000
+OBRA-0119,134.4,2,1,2,Estándar,Pendiente moderada,Alta,Fácil,53114000
+OBRA-0120,223.2,4,3,1,Estándar,Pendiente pronunciada,Media,Intermedio,91298000
+OBRA-0121,232.4,5,3,1,Estándar,Plano,Alta,Fácil,96855000
+OBRA-0122,146.7,3,2,1,Básico,Plano,Media,Fácil,43918000
+OBRA-0123,139.2,3,2,1,Estándar,Pendiente pronunciada,Media,Intermedio,67700000
+OBRA-0124,147.3,4,3,1,Estándar,Plano,Media,Intermedio,56867000
+OBRA-0125,170.3,2,2,1,Estándar,Pendiente moderada,Media,Fácil,59747000
+OBRA-0126,148.2,2,1,2,Estándar,Plano,Alta,Fácil,59282000
+OBRA-0127,272.0,4,1,1,Estándar,Plano,Media,Fácil,100007000
+OBRA-0128,137.5,2,1,1,Estándar,Plano,Media,Fácil,49693000
+OBRA-0129,135.1,2,1,2,Estándar,Plano,Baja,Intermedio,46090000
+OBRA-0130,162.5,3,2,2,Estándar,Plano,Media,Fácil,59693000
+OBRA-0131,211.8,3,1,3,Estándar,Pendiente moderada,Media,Fácil,82515000
+OBRA-0132,276.1,5,3,1,Estándar,Plano,Media,Fácil,90250000
+OBRA-0133,172.8,4,1,3,Estándar,Plano,Baja,Fácil,61949000
+OBRA-0134,120.4,2,1,2,Básico,Plano,Media,Fácil,30391000
+OBRA-0135,169.1,3,2,2,Básico,Pendiente moderada,Media,Intermedio,45750000
+OBRA-0136,265.7,3,2,2,Básico,,Media,Fácil,81650000
+OBRA-0137,93.8,2,1,2,Estándar,Pendiente pronunciada,Media,Intermedio,35950000
+OBRA-0138,84.5,2,1,1,Estándar,Plano,Baja,Fácil,32355000
+OBRA-0139,250.6,5,3,1,Básico,Pendiente moderada,Media,Fácil,67620000
+OBRA-0140,147.6,3,2,1,Premium,Plano,Alta,Fácil,60523000
+OBRA-0141,193.5,5,4,1,Estándar,Plano,Media,Fácil,62696000
+OBRA-0142,158.8,3,3,1,Estándar,,Media,Fácil,60166000
+OBRA-0143,230.2,3,2,1,Básico,Plano,Media,Fácil,68576000
+OBRA-0144,205.2,4,2,1,Estándar,Plano,Media,Intermedio,69246000
+OBRA-0145,73.5,3,3,1,Estándar,Pendiente moderada,Alta,Fácil,39252000
+OBRA-0146,247.1,5,2,3,Premium,Plano,Media,Fácil,108051000
+OBRA-0147,174.9,4,3,1,Estándar,Pendiente moderada,Media,Fácil,63395000
+OBRA-0148,,2,1,1,Básico,Pendiente moderada,Baja,Fácil,23000000
+OBRA-0149,191.1,3,2,2,Premium,Plano,Media,Fácil,80015000
+OBRA-0150,82.2,1,1,2,Básico,Plano,Media,Fácil,23997000
+OBRA-0151,141.5,2,2,1,Estándar,Plano,Alta,Fácil,50332000
+OBRA-0152,172.3,3,2,1,Premium,Plano,Media,Intermedio,82691000
+OBRA-0153,268.1,6,3,1,Estándar,Plano,Media,Fácil,99653000
+OBRA-0154,228.2,5,2,3,Estándar,Pendiente pronunciada,Alta,Fácil,104792000
+OBRA-0155,231.8,4,2,1,Premium,Plano,Media,Difícil,110420000
+OBRA-0156,205.0,5,3,2,Básico,Plano,Baja,Intermedio,58492000
+OBRA-0157,154.8,1,1,1,Estándar,Plano,Alta,Difícil,63572000
+OBRA-0158,279.9,5,3,1,Estándar,Plano,Alta,Fácil,116374000
+OBRA-0159,108.6,2,1,3,Estándar,Plano,Alta,Fácil,42987000
+OBRA-0160,145.6,2,1,1,Estándar,Plano,Baja,Intermedio,57335000
+OBRA-0161,199.5,4,3,1,Estándar,Pendiente moderada,Baja,Difícil,77814000
+OBRA-0162,211.2,4,3,1,Estándar,Pendiente moderada,Media,Fácil,70233000
+OBRA-0163,181.5,4,1,1,Estándar,Pendiente moderada,Media,Intermedio,65590000
+OBRA-0164,,5,3,2,Estándar,Plano,Media,Intermedio,82630000
+OBRA-0165,126.6,2,2,1,Estándar,Plano,Baja,Fácil,40119000
+OBRA-0166,186.2,3,1,1,Básico,Plano,Baja,Fácil,55872000
+OBRA-0167,287.1,6,3,2,Básico,Pendiente pronunciada,Baja,Fácil,89613000
+OBRA-0168,74.8,1,1,1,Básico,Plano,Media,Fácil,23000000
+OBRA-0169,153.9,4,2,2,Básico,Plano,Media,Fácil,44281000
+OBRA-0170,116.7,2,1,1,Premium,Plano,Media,Intermedio,50867000
+OBRA-0171,153.2,3,,1,Premium,Plano,Media,Intermedio,65602000
+OBRA-0172,176.4,3,2,2,Premium,Plano,Baja,Fácil,71601000
+OBRA-0173,173.7,3,1,1,Básico,Plano,Baja,Difícil,50349000
+OBRA-0174,156.2,4,2,2,Estándar,Plano,Baja,Fácil,39242000
+OBRA-0175,111.3,2,1,1,Básico,Pendiente moderada,Baja,Fácil,23199000
+OBRA-0176,280.9,6,3,2,Premium,Plano,Baja,Difícil,116629000
+OBRA-0177,228.6,4,2,2,Estándar,Plano,Baja,Fácil,73956000
+OBRA-0178,156.9,2,2,2,Premium,Plano,Media,,78109000
+OBRA-0179,127.7,3,2,1,Estándar,Plano,Baja,Intermedio,40351000
+OBRA-0180,88.8,2,1,2,Estándar,Plano,Media,Difícil,41570000
+OBRA-0181,180.0,3,2,1,Básico,Plano,Baja,,36404000
+OBRA-0182,141.4,3,2,1,Estándar,Plano,Alta,Difícil,62489000
+OBRA-0183,91.5,2,1,2,Premium,Plano,Media,Fácil,28209000
+OBRA-0184,77.6,1,1,3,Estándar,Pendiente pronunciada,Media,Fácil,32452000
+OBRA-0185,211.7,4,2,1,Estándar,Pendiente moderada,Media,Fácil,82002000
+OBRA-0186,288.4,5,3,1,Estándar,Plano,Media,Fácil,101513000
+OBRA-0187,208.2,5,3,3,Básico,Plano,Media,Fácil,55972000
+OBRA-0188,108.6,3,2,2,Estándar,Plano,Baja,Fácil,33122000
+OBRA-0189,282.2,6,3,1,Estándar,Pendiente moderada,Baja,Fácil,99176000
+OBRA-0190,270.8,5,2,2,Estándar,Pendiente moderada,Media,Intermedio,92063000
+OBRA-0191,280.0,6,3,3,Básico,Plano,Media,Fácil,70694000
+OBRA-0192,201.8,5,3,3,Estándar,Pendiente moderada,Baja,Fácil,73879000
+OBRA-0193,268.3,6,4,2,Estándar,Plano,Media,Difícil,102800000
+OBRA-0194,88.4,1,2,1,Básico,Plano,Media,Fácil,25819000
+OBRA-0195,213.7,4,3,2,Estándar,Pendiente moderada,Alta,Fácil,89250000
+OBRA-0196,111.2,2,2,2,Estándar,Pendiente moderada,Alta,Intermedio,51620000
+OBRA-0197,140.0,4,1,1,Estándar,Plano,Media,,45711000
+OBRA-0198,109.6,3,1,1,Básico,Pendiente moderada,Media,Intermedio,41792000
+OBRA-0199,158.6,3,2,1,Básico,Plano,Baja,Difícil,44731000
+OBRA-0200,281.3,5,3,2,Básico,Pendiente pronunciada,Baja,Fácil,91036000
+OBRA-0201,157.9,3,2,2,Estándar,Plano,Media,Fácil,60918000
+OBRA-0202,102.4,2,1,2,Estándar,Plano,Baja,Fácil,42729000
+OBRA-0203,114.4,1,1,2,Estándar,Plano,Alta,Intermedio,57018000
+OBRA-0204,112.4,3,2,1,Premium,Pendiente moderada,Baja,Fácil,55943000
+OBRA-0205,183.6,3,1,1,Estándar,Plano,Media,Difícil,58936000
+OBRA-0206,140.5,2,1,2,Estándar,Pendiente moderada,Media,Intermedio,60445000
+OBRA-0207,157.4,3,2,1,Premium,Pendiente moderada,Media,Fácil,75935000
+OBRA-0208,239.9,5,2,3,Estándar,Plano,Media,Fácil,80251000
+OBRA-0209,274.9,6,3,2,Básico,Plano,Alta,Fácil,75918000
+OBRA-0210,254.4,6,3,1,Básico,Plano,Baja,,63832000
+OBRA-0211,103.3,1,1,1,Básico,Plano,Alta,Fácil,23307000
+OBRA-0212,212.6,6,3,1,Básico,Pendiente pronunciada,Media,Fácil,69275000
+OBRA-0213,210.7,3,2,1,Estándar,Plano,Alta,Fácil,76111000
+OBRA-0214,176.5,4,3,1,Estándar,Plano,Alta,Intermedio,68761000
+OBRA-0215,159.7,3,,3,Estándar,Plano,Media,Intermedio,60219000
+OBRA-0216,76.5,1,,1,Estándar,Pendiente moderada,Baja,Intermedio,26957000
+OBRA-0217,194.5,3,1,1,Premium,Plano,Baja,Intermedio,82465000
+OBRA-0218,239.6,6,4,1,Estándar,Plano,Media,Fácil,87893000
+OBRA-0219,89.4,1,1,1,Básico,Plano,Baja,Fácil,24063000
+OBRA-0220,92.9,3,1,2,Estándar,Plano,Alta,Fácil,37540000
+OBRA-0221,254.2,4,2,2,Estándar,Plano,Media,Fácil,81412000
+OBRA-0222,248.7,5,2,1,Estándar,Plano,Media,Intermedio,81124000
+OBRA-0223,,2,1,1,Premium,Pendiente moderada,Media,Intermedio,86212000
+OBRA-0224,130.6,2,1,1,Estándar,Plano,Alta,Fácil,53531000
+OBRA-0225,260.5,5,3,1,Básico,Plano,Media,Intermedio,78422000
+OBRA-0226,142.8,3,1,2,Premium,,Media,Intermedio,58831000
+OBRA-0227,103.9,3,2,1,Estándar,Plano,Baja,Fácil,36158000
+OBRA-0228,283.0,6,4,2,Estándar,Plano,Alta,Intermedio,109739000
+OBRA-0229,279.0,5,3,3,Premium,Plano,Media,Fácil,136189000
+OBRA-0230,71.3,1,1,1,Básico,Pendiente pronunciada,Media,Fácil,33536000
+OBRA-0231,124.3,4,3,1,Estándar,Pendiente moderada,Media,Fácil,44868000
+OBRA-0232,158.2,4,2,1,Premium,Plano,Alta,Fácil,80090000
+OBRA-0233,239.1,4,3,2,Estándar,Plano,Baja,Difícil,87449000
+OBRA-0234,277.8,6,3,1,Estándar,Pendiente moderada,Media,Intermedio,102534000
+OBRA-0235,230.9,4,2,1,Premium,Pendiente moderada,Alta,Fácil,125406000
+OBRA-0236,239.6,5,2,2,Básico,Plano,Media,Fácil,71023000
+OBRA-0237,96.0,3,1,1,Estándar,Pendiente pronunciada,Baja,Intermedio,30091000
+OBRA-0238,71.4,2,1,1,Estándar,Pendiente moderada,Media,Fácil,23000000
+OBRA-0239,141.4,3,1,1,Básico,Pendiente moderada,Alta,Fácil,49958000
+OBRA-0240,241.0,5,2,2,Estándar,Plano,Media,Fácil,84380000
+OBRA-0241,137.7,4,1,1,Estándar,Plano,Media,Intermedio,49863000
+OBRA-0242,233.5,6,4,2,Premium,Plano,Media,Fácil,104449000
+OBRA-0243,188.8,4,2,1,Estándar,Plano,Media,Fácil,62945000
+OBRA-0244,206.1,3,3,1,Estándar,Plano,Baja,Intermedio,69324000
+OBRA-0245,273.7,6,2,2,Premium,Plano,Media,Fácil,115111000
+OBRA-0246,193.1,3,,2,Premium,Pendiente moderada,Alta,Fácil,106827000
+OBRA-0247,221.3,4,,3,Estándar,Plano,Baja,Fácil,78789000
+OBRA-0248,81.9,1,1,1,Básico,Pendiente moderada,Media,Fácil,25836000
+OBRA-0249,286.8,5,3,1,Premium,Pendiente moderada,Alta,Fácil,157091000
+OBRA-0250,144.0,2,1,1,Premium,Pendiente moderada,Baja,Intermedio,65522000
+OBRA-0251,159.7,3,2,1,Estándar,Pendiente moderada,Media,Fácil,65967000
+OBRA-0252,283.6,5,3,1,Estándar,Plano,Alta,Fácil,111092000
+OBRA-0253,133.2,2,2,1,Estándar,Plano,Baja,Intermedio,44554000
+OBRA-0254,186.6,3,1,1,Estándar,Pendiente moderada,Media,Fácil,70910000
+OBRA-0255,117.0,3,2,1,Estándar,Plano,Media,Fácil,42166000
+OBRA-0256,115.7,2,1,2,Básico,Pendiente moderada,Media,Intermedio,35059000
+OBRA-0257,251.6,4,3,3,Estándar,Plano,Media,Fácil,86274000
+OBRA-0258,83.9,1,1,1,Básico,Plano,Media,Fácil,23000000
+OBRA-0259,108.0,2,1,1,Estándar,Plano,Media,Fácil,33331000
+OBRA-0260,162.6,4,3,2,Estándar,Pendiente moderada,Baja,Fácil,59994000
+OBRA-0261,184.2,3,2,1,Básico,Pendiente moderada,Baja,Fácil,41373000
+OBRA-0262,119.4,1,1,1,Estándar,Plano,Alta,Fácil,40831000
+OBRA-0263,104.6,2,2,1,Estándar,Pendiente moderada,Alta,Fácil,51429000
+OBRA-0264,273.9,6,3,1,Premium,Plano,Media,Intermedio,115298000
+OBRA-0265,265.7,5,3,1,Premium,Pendiente moderada,Media,Fácil,118298000
+OBRA-0266,142.2,2,1,1,Estándar,Pendiente moderada,Media,Fácil,48380000
+OBRA-0267,288.6,5,3,3,Estándar,Plano,Baja,Fácil,92642000
+OBRA-0268,128.6,2,3,1,Estándar,Pendiente pronunciada,Media,Fácil,46010000
+OBRA-0269,218.6,3,2,1,Estándar,Plano,Media,Fácil,67113000
+OBRA-0270,167.9,4,2,1,Básico,Pendiente moderada,Media,Difícil,55332000
+OBRA-0271,81.0,3,2,2,Estándar,Pendiente moderada,Baja,Fácil,31873000
+OBRA-0272,127.5,3,2,1,Premium,Plano,Media,Intermedio,61270000
+OBRA-0273,73.4,1,1,1,Estándar,Plano,Media,Fácil,23003000
+OBRA-0274,267.9,5,3,1,Estándar,Plano,Alta,Fácil,94700000
+OBRA-0275,156.9,3,2,1,Estándar,Pendiente moderada,Media,Fácil,53878000
+OBRA-0276,70.7,2,2,1,Estándar,Pendiente moderada,Alta,Fácil,30263000
+OBRA-0277,274.2,6,4,1,Estándar,Plano,Media,Fácil,83691000
+OBRA-0278,86.3,2,1,1,Premium,Pendiente moderada,Baja,Intermedio,41668000
+OBRA-0279,273.5,5,4,1,Estándar,Pendiente moderada,Alta,Fácil,116860000
+OBRA-0280,120.1,4,2,2,Básico,Plano,Alta,Intermedio,38833000
+OBRA-0281,114.5,1,1,1,Básico,Plano,Media,Fácil,33525000
+OBRA-0282,84.7,2,1,1,Estándar,Plano,Baja,Intermedio,30511000
+OBRA-0283,134.7,2,2,1,Básico,Plano,Media,Fácil,47049000
+OBRA-0284,120.1,2,2,2,Estándar,Pendiente moderada,Media,Fácil,52320000
+OBRA-0285,277.5,5,2,1,Estándar,Plano,Media,Fácil,91735000
+OBRA-0286,171.5,3,2,1,Básico,Pendiente moderada,Alta,Fácil,61050000
+OBRA-0287,288.4,5,2,1,Estándar,Pendiente moderada,Media,Intermedio,101593000
+OBRA-0288,255.8,4,2,1,Estándar,Plano,Media,Intermedio,86563000
+OBRA-0289,187.6,3,1,2,Básico,Plano,Baja,Fácil,46512000
+OBRA-0290,212.4,3,1,2,Estándar,Plano,Media,Fácil,79794000
+OBRA-0291,256.9,5,4,1,Premium,Plano,Baja,Intermedio,112268000
+OBRA-0292,266.0,6,4,1,Estándar,Plano,Media,,100730000
+OBRA-0293,214.4,4,2,1,Estándar,Plano,Baja,Fácil,64607000
+OBRA-0294,194.6,5,3,2,Estándar,Plano,Media,Fácil,62285000
+OBRA-0295,,5,3,1,Básico,Plano,Media,Fácil,74544000
+OBRA-0296,270.7,5,3,1,Básico,Plano,Baja,Intermedio,76523000
+OBRA-0297,152.7,3,2,2,Básico,Pendiente pronunciada,Media,Fácil,62389000
+OBRA-0298,89.6,2,1,2,Estándar,Pendiente moderada,Media,Intermedio,43328000
+OBRA-0299,149.4,3,1,1,Estándar,Plano,Baja,Fácil,53491000
+OBRA-0300,163.8,3,1,2,Premium,Plano,Baja,Fácil,73238000
+OBRA-0301,138.5,4,2,1,Premium,Plano,Media,Intermedio,63480000
+OBRA-0302,194.8,4,2,1,Premium,Plano,Media,Fácil,75762000
+OBRA-0303,88.2,3,1,1,Estándar,Plano,Baja,Fácil,32918000
+OBRA-0304,249.6,6,4,1,Estándar,Pendiente moderada,Media,Fácil,91806000
+OBRA-0305,251.4,6,3,2,Premium,Plano,Media,Fácil,109936000
+OBRA-0306,250.1,4,2,2,Básico,Plano,Baja,Fácil,67098000
+OBRA-0307,113.9,2,2,2,Premium,Plano,Baja,Intermedio,45573000
+OBRA-0308,82.1,1,1,2,Premium,Plano,Baja,Fácil,33752000
+OBRA-0309,216.6,4,2,1,Premium,Pendiente pronunciada,Media,Difícil,114093000
+OBRA-0310,210.5,5,3,1,Básico,Plano,Media,Intermedio,66092000
+OBRA-0311,164.5,2,1,1,Estándar,Plano,Media,Fácil,57999000
+OBRA-0312,213.8,5,3,1,Estándar,Plano,Baja,Fácil,68467000
+OBRA-0313,144.1,4,3,3,Básico,Plano,Baja,Fácil,52257000
+OBRA-0314,211.6,5,3,1,Básico,Plano,Media,Intermedio,56827000
+OBRA-0315,102.8,3,3,1,Estándar,Plano,Media,Intermedio,42053000
+OBRA-0316,107.8,3,3,1,Estándar,Plano,Alta,Fácil,43871000
+OBRA-0317,269.2,4,2,2,Premium,,Alta,Fácil,136794000
+OBRA-0318,282.8,6,3,1,Estándar,Pendiente moderada,Media,Fácil,101267000
+OBRA-0319,91.5,1,1,1,Básico,Plano,Media,Fácil,23000000
+OBRA-0320,143.5,3,2,1,Premium,Pendiente pronunciada,Media,Intermedio,79736000
+OBRA-0321,206.3,4,2,2,Estándar,Pendiente pronunciada,Media,Fácil,90695000
+OBRA-0322,102.5,1,1,1,Básico,Plano,Media,Fácil,23000000
+OBRA-0323,,4,3,1,Premium,Pendiente moderada,Alta,Intermedio,131773000
+OBRA-0324,130.0,3,1,1,Premium,Pendiente moderada,Baja,Intermedio,54166000
+OBRA-0325,255.6,5,,1,Básico,Plano,Alta,Fácil,75822000
+OBRA-0326,112.2,2,1,2,Estándar,Plano,Media,Fácil,47579000
+OBRA-0327,116.7,2,1,2,Básico,Pendiente moderada,Baja,Intermedio,26895000
+OBRA-0328,259.2,5,2,3,Estándar,Pendiente moderada,Media,Fácil,99164000
+OBRA-0329,288.9,6,3,1,Premium,Pendiente moderada,Media,Intermedio,146386000
+OBRA-0330,122.6,1,1,1,Premium,Plano,Media,Intermedio,59511000
+OBRA-0331,88.0,2,1,2,Básico,Pendiente moderada,Baja,Fácil,24305000
+OBRA-0332,153.5,4,3,2,Premium,Plano,Baja,Intermedio,71703000
+OBRA-0333,96.2,2,1,2,Estándar,Plano,Media,Fácil,38778000
+OBRA-0334,260.8,5,4,1,Básico,Pendiente moderada,Media,Fácil,75631000
+OBRA-0335,243.5,4,2,1,Estándar,Pendiente moderada,Baja,Fácil,83000000
+OBRA-0336,96.0,2,2,2,Estándar,Plano,Media,Difícil,39185000
+OBRA-0337,141.8,4,2,1,Básico,Plano,Media,Intermedio,42427000
+OBRA-0338,278.5,6,3,1,Estándar,Pendiente moderada,Media,Fácil,97671000
+OBRA-0339,263.9,5,2,2,Estándar,Pendiente moderada,Alta,Intermedio,108708000
+OBRA-0340,74.0,1,1,2,Básico,,Baja,Intermedio,23000000
+OBRA-0341,149.6,4,2,1,Estándar,Plano,Media,Fácil,51704000
+OBRA-0342,175.1,4,1,1,Básico,Plano,Media,Fácil,43810000
+OBRA-0343,237.3,5,3,1,Básico,Pendiente moderada,Baja,Intermedio,66393000
+OBRA-0344,178.4,4,1,1,Estándar,Plano,Media,Intermedio,55993000
+OBRA-0345,192.7,6,3,2,Estándar,Plano,Media,Fácil,66064000
+OBRA-0346,232.8,5,3,2,Premium,Plano,Alta,Fácil,121618000
+OBRA-0347,265.7,6,3,1,Estándar,Plano,Media,Difícil,104444000
+OBRA-0348,165.6,4,3,1,Estándar,Plano,Alta,Intermedio,66749000
+OBRA-0349,98.2,2,1,2,Estándar,Pendiente moderada,Baja,Fácil,29218000
+OBRA-0350,89.8,1,1,1,Básico,Plano,Baja,Fácil,24931000
+OBRA-0351,238.3,5,3,1,Estándar,Plano,Media,,78743000
+OBRA-0352,206.0,3,3,1,Estándar,Plano,Media,Intermedio,76624000
+OBRA-0353,119.1,2,1,1,Premium,Plano,Media,Fácil,45601000
+OBRA-0354,201.0,5,3,3,Estándar,Pendiente moderada,Baja,Fácil,68783000
+OBRA-0355,98.2,3,2,2,Estándar,Plano,Media,Fácil,26022000
+OBRA-0356,135.4,3,1,3,Estándar,Plano,Media,Fácil,49373000
+OBRA-0357,253.1,4,2,2,Premium,Pendiente moderada,Baja,Fácil,116052000
+OBRA-0358,170.5,5,2,2,Básico,Plano,Media,Fácil,56343000
+OBRA-0359,94.2,1,1,1,Básico,Pendiente moderada,Media,Intermedio,35078000
+OBRA-0360,268.9,6,2,1,Estándar,Pendiente pronunciada,Alta,Difícil,123131000
+OBRA-0361,110.8,2,1,3,Estándar,Pendiente pronunciada,Media,Fácil,51373000
+OBRA-0362,138.0,2,1,2,Estándar,Pendiente moderada,Media,,46485000
+OBRA-0363,94.3,3,1,1,Estándar,Plano,Baja,Fácil,23000000
+OBRA-0364,73.9,1,1,2,Premium,Pendiente moderada,Media,Fácil,25300000
+OBRA-0365,173.5,4,5,2,Estándar,Pendiente moderada,Baja,Fácil,59462000
+OBRA-0366,242.4,4,3,1,Premium,Plano,Baja,Intermedio,104667000
+OBRA-0367,80.8,1,1,1,Básico,Pendiente moderada,Baja,Difícil,28478000
+OBRA-0368,74.3,1,1,1,Básico,Plano,Media,Intermedio,24859000
+OBRA-0369,234.8,4,3,2,Estándar,Plano,Media,Intermedio,85730000
+OBRA-0370,128.2,4,2,1,Estándar,Plano,Media,,34002000
+OBRA-0371,130.7,2,1,2,Básico,Pendiente moderada,Alta,Fácil,38830000
+OBRA-0372,148.8,2,1,3,Estándar,Plano,Media,Difícil,56162000
+OBRA-0373,272.3,6,3,1,Estándar,Plano,Alta,Fácil,87894000
+OBRA-0374,269.5,6,4,2,Estándar,Pendiente moderada,Media,Fácil,96629000
+OBRA-0375,89.5,3,2,1,Estándar,Pendiente moderada,Media,Intermedio,42485000
+OBRA-0376,70.4,2,1,1,Estándar,Plano,Baja,Intermedio,28803000
+OBRA-0377,120.3,2,1,1,Estándar,Plano,Alta,Intermedio,40118000
+OBRA-0378,227.5,5,2,1,Premium,Plano,Media,Fácil,100104000
+OBRA-0379,118.3,2,,1,Estándar,Plano,Media,Fácil,46720000
+OBRA-0380,77.8,3,1,2,Estándar,Plano,Media,Difícil,46149000
+OBRA-0381,124.3,2,2,1,Estándar,Plano,Media,Fácil,49286000
+OBRA-0382,237.4,5,3,1,Estándar,Plano,Alta,Intermedio,81627000
+OBRA-0383,229.8,4,2,2,Estándar,Pendiente pronunciada,Media,Fácil,90079000
+OBRA-0384,133.1,2,1,2,Estándar,Plano,Media,Difícil,59156000
+OBRA-0385,124.0,4,2,1,Estándar,Plano,Media,Fácil,50526000
+OBRA-0386,,4,3,1,Básico,Plano,Media,Fácil,61821000
+OBRA-0387,157.7,2,1,1,Estándar,Plano,Media,Fácil,46135000
+OBRA-0388,194.4,3,1,2,Premium,Pendiente pronunciada,Alta,Fácil,120274000
+OBRA-0389,221.6,6,4,1,Básico,Plano,Baja,Fácil,63391000
+OBRA-0390,226.6,5,3,1,Estándar,Plano,Media,Fácil,72666000
+OBRA-0391,106.4,2,2,1,Básico,Pendiente moderada,Media,Fácil,26646000
+OBRA-0392,96.2,2,1,1,Premium,Plano,Media,Difícil,32452000
+OBRA-0393,210.8,4,3,1,Estándar,Plano,Baja,Fácil,59359000
+OBRA-0394,93.3,3,2,1,Premium,Plano,Media,Fácil,30869000
+OBRA-0395,229.6,4,1,1,Estándar,Pendiente moderada,Media,Intermedio,82172000
+OBRA-0396,72.2,1,1,1,Estándar,Plano,Media,Fácil,23605000
+OBRA-0397,194.6,4,2,1,Premium,Plano,Media,Fácil,85415000
+OBRA-0398,142.9,4,3,2,Estándar,Pendiente moderada,Media,Intermedio,52462000
+OBRA-0399,112.4,1,1,1,Básico,Plano,Media,Fácil,31872000
+OBRA-0400,163.3,3,1,1,Estándar,Pendiente moderada,Media,Fácil,60557000
+OBRA-0401,160.5,2,1,1,Estándar,Plano,Media,Fácil,59694000
+OBRA-0402,203.1,4,2,1,Estándar,Plano,Media,Fácil,68165000
+OBRA-0403,241.5,3,2,1,Estándar,Plano,Media,Difícil,87991000
+OBRA-0404,277.7,6,5,1,Estándar,Pendiente moderada,Alta,Fácil,114498000
+OBRA-0405,227.9,5,2,1,Premium,Plano,Alta,Fácil,107606000
+OBRA-0406,158.2,4,2,1,Básico,Plano,Media,Fácil,41833000
+OBRA-0407,197.1,3,2,1,Premium,Plano,Baja,Fácil,79512000
+OBRA-0408,204.3,3,1,1,Básico,Plano,Media,Fácil,61346000
+OBRA-0409,138.5,4,3,2,Estándar,Plano,Media,Fácil,59460000
+OBRA-0410,90.2,2,1,2,Premium,Pendiente moderada,Media,Intermedio,44027000
+OBRA-0411,89.8,1,1,1,Estándar,Plano,Media,Fácil,36404000
+OBRA-0412,170.8,3,1,3,Premium,Plano,Alta,Intermedio,93048000
+OBRA-0413,249.0,5,3,1,Estándar,Pendiente pronunciada,Baja,Intermedio,100520000
+OBRA-0414,191.7,3,1,3,Premium,Plano,Media,Fácil,93198000
+OBRA-0415,157.6,3,2,2,Estándar,Plano,Media,Fácil,50083000
+OBRA-0416,124.7,2,2,1,Básico,Plano,Media,Intermedio,27301000
+OBRA-0417,,4,2,1,Básico,Pendiente moderada,Baja,Fácil,68488000
+OBRA-0418,215.1,3,1,2,Básico,Pendiente pronunciada,Baja,Fácil,74901000
+OBRA-0419,231.9,5,3,1,Premium,Plano,Baja,Intermedio,96248000
+OBRA-0420,132.0,4,2,1,Básico,Plano,Media,Fácil,34515000
+OBRA-0421,88.6,1,1,1,Estándar,Plano,Media,Intermedio,37154000
+OBRA-0422,146.9,4,2,1,Estándar,Pendiente moderada,Alta,Difícil,58172000
+OBRA-0423,99.1,3,1,1,Estándar,Plano,Baja,Intermedio,31450000
+OBRA-0424,106.6,3,2,2,Premium,Pendiente moderada,Media,Intermedio,59034000
+OBRA-0425,170.9,4,1,1,Básico,Plano,Media,Fácil,46792000
+OBRA-0426,84.0,2,2,2,Premium,Pendiente moderada,Baja,Fácil,42115000
+OBRA-0427,117.4,3,2,2,Premium,Plano,Media,Intermedio,57827000
+OBRA-0428,100.3,3,2,1,Básico,Plano,Baja,Fácil,31953000
+OBRA-0429,195.0,3,2,2,Estándar,Plano,Alta,Intermedio,81284000
+OBRA-0430,111.1,4,1,3,Estándar,Plano,Media,Fácil,37285000
+OBRA-0431,269.4,5,3,1,Estándar,Plano,Media,Difícil,100802000
+OBRA-0432,213.4,4,3,1,Estándar,Pendiente pronunciada,Media,Fácil,77255000
+OBRA-0433,167.7,3,2,1,Estándar,Plano,Baja,Fácil,45820000
+OBRA-0434,130.1,3,1,1,Estándar,Pendiente moderada,Baja,Fácil,50708000
+OBRA-0435,171.2,4,3,1,Básico,Plano,Media,Fácil,50274000
+OBRA-0436,243.8,5,3,2,Estándar,Plano,Media,Fácil,77045000
+OBRA-0437,151.9,4,2,2,Básico,Pendiente moderada,Baja,Fácil,44738000
+OBRA-0438,238.2,4,1,3,Básico,Plano,Baja,Fácil,66237000
+OBRA-0439,82.2,1,1,2,Estándar,Plano,Media,Fácil,29484000
+OBRA-0440,132.9,3,2,1,Estándar,Plano,Alta,Fácil,47203000
+OBRA-0441,279.5,6,3,2,Premium,Plano,Media,Fácil,127357000
+OBRA-0442,140.9,3,2,1,Estándar,,Alta,Fácil,58594000
+OBRA-0443,240.2,4,2,1,Premium,Plano,Media,Fácil,112260000
+OBRA-0444,147.8,3,3,2,Premium,Plano,Media,Fácil,60788000
+OBRA-0445,193.8,5,3,2,Premium,Pendiente moderada,Media,Fácil,100058000
+OBRA-0446,197.4,3,3,1,Premium,Pendiente moderada,Media,Fácil,91800000
+OBRA-0447,,5,2,2,Estándar,Pendiente moderada,Media,Fácil,89674000
+OBRA-0448,180.2,2,2,1,Estándar,Pendiente moderada,Media,Fácil,72397000
+OBRA-0449,96.7,2,1,3,Estándar,,Media,Fácil,34599000
+OBRA-0450,133.4,3,2,1,Estándar,Plano,Media,Intermedio,47211000
+OBRA-0451,234.7,4,2,2,Estándar,Plano,Media,Intermedio,76286000
+OBRA-0452,224.4,5,3,1,Premium,Pendiente moderada,Media,Intermedio,116156000
+OBRA-0453,71.8,1,1,1,Premium,Pendiente moderada,Media,Fácil,29562000
+OBRA-0454,211.3,5,2,3,Estándar,Plano,Media,Fácil,69045000
+OBRA-0455,262.2,4,2,1,Premium,Plano,Baja,Fácil,105933000
+OBRA-0456,192.1,3,2,2,Básico,Plano,Media,Fácil,60529000
+OBRA-0457,71.4,1,,1,Básico,Pendiente moderada,Alta,Fácil,31978000
+OBRA-0458,234.0,5,3,1,Básico,Plano,Media,Intermedio,71873000
+OBRA-0459,136.0,1,1,2,Premium,Pendiente moderada,Media,Intermedio,70812000
+OBRA-0460,278.5,6,4,1,Básico,Pendiente moderada,Baja,Intermedio,81347000
+OBRA-0461,173.3,4,,1,Premium,Pendiente moderada,Media,Fácil,85837000
+OBRA-0462,,5,2,1,Estándar,Plano,Media,Fácil,95925000
+OBRA-0463,127.7,2,1,1,Estándar,Pendiente moderada,Media,Fácil,48099000
+OBRA-0464,112.8,2,1,1,Estándar,Plano,Media,Intermedio,28612000
+OBRA-0465,186.5,4,3,1,Básico,Plano,Media,Fácil,53704000
+OBRA-0466,160.4,4,3,2,Básico,Pendiente moderada,Media,Fácil,52101000
+OBRA-0467,208.2,5,2,1,Básico,Pendiente moderada,Media,Difícil,66063000
+OBRA-0468,148.4,3,2,2,Básico,Plano,Baja,Fácil,37877000
+OBRA-0469,138.5,3,1,2,Premium,Plano,Media,Intermedio,53978000
+OBRA-0470,243.9,6,4,1,Estándar,Pendiente moderada,Media,Difícil,104947000
+OBRA-0471,82.8,1,1,2,Básico,Pendiente moderada,Media,Fácil,23000000
+OBRA-0472,243.1,5,3,1,Estándar,Plano,Baja,,76756000
+OBRA-0473,184.7,4,2,1,Estándar,Pendiente moderada,Media,Difícil,77953000
+OBRA-0474,77.7,2,1,3,Estándar,Pendiente moderada,Baja,Fácil,37596000
+OBRA-0475,259.4,6,4,1,Premium,Pendiente pronunciada,Media,Fácil,127257000
+OBRA-0476,72.8,2,1,2,Estándar,Pendiente moderada,Alta,Fácil,32448000
+OBRA-0477,226.8,4,1,2,Estándar,Plano,Baja,Intermedio,75439000
+OBRA-0478,101.2,2,1,1,Estándar,Plano,Media,Fácil,32574000
+OBRA-0479,201.4,3,1,1,Estándar,Pendiente moderada,Media,Intermedio,80074000
+OBRA-0480,219.5,4,3,1,Estándar,Plano,Alta,Fácil,80422000
+OBRA-0481,213.1,5,3,1,Estándar,,Media,Fácil,74808000
+OBRA-0482,108.6,2,1,2,Estándar,Pendiente moderada,Media,Fácil,39908000
+OBRA-0483,211.8,4,2,2,Estándar,Plano,Media,Fácil,77798000
+OBRA-0484,133.2,3,2,2,Estándar,Plano,Media,Intermedio,57260000
+OBRA-0485,216.4,5,4,1,Básico,Plano,Media,Fácil,56406000
+OBRA-0486,76.4,1,1,1,Básico,Plano,Baja,Intermedio,25110000
+OBRA-0487,76.8,2,2,1,Básico,Pendiente moderada,Media,Fácil,26666000
+OBRA-0488,99.8,1,1,2,Básico,Plano,Media,Fácil,25799000
+OBRA-0489,187.7,3,3,1,Premium,,Alta,Fácil,96560000
+OBRA-0490,93.1,1,1,1,Estándar,Plano,Baja,Fácil,23000000
+OBRA-0491,131.2,1,1,1,Estándar,Plano,Media,Difícil,46162000
+OBRA-0492,211.8,3,2,1,Básico,Plano,Media,Intermedio,61471000
+OBRA-0493,97.5,2,1,2,Estándar,Plano,Media,Fácil,39321000
+OBRA-0494,288.1,5,3,1,Premium,Plano,Alta,Fácil,130505000
+OBRA-0495,197.8,4,2,1,Estándar,Plano,Media,Fácil,69815000
+OBRA-0496,277.2,5,3,1,Premium,Plano,Media,Fácil,129377000
+OBRA-0497,136.2,3,2,1,Premium,Plano,Media,Intermedio,70805000
+OBRA-0498,255.6,6,3,1,Estándar,Pendiente pronunciada,Media,Fácil,104530000
+OBRA-0499,183.1,5,3,1,Estándar,Plano,Alta,Fácil,69963000
+OBRA-0500,161.7,3,2,1,Básico,Pendiente moderada,Media,Fácil,42032000
+OBRA-0501,110.7,1,,1,Estándar,Pendiente moderada,Baja,Fácil,40242000
+OBRA-0502,86.4,1,1,1,Estándar,Plano,Media,Fácil,38130000
+OBRA-0503,281.4,6,3,3,Básico,Plano,Media,Intermedio,86897000
+OBRA-0504,255.9,5,2,3,Estándar,Pendiente moderada,Alta,Intermedio,101307000
+OBRA-0505,152.1,4,1,2,Estándar,Pendiente moderada,Baja,Intermedio,49078000
+OBRA-0506,87.0,2,1,2,Básico,Pendiente moderada,Baja,Intermedio,24643000
+OBRA-0507,253.9,5,3,1,Premium,Plano,Media,Intermedio,109849000
+OBRA-0508,223.7,4,1,3,Estándar,Pendiente pronunciada,Alta,Fácil,104759000
+OBRA-0509,192.4,4,2,1,Estándar,Pendiente pronunciada,Media,Intermedio,79331000
+OBRA-0510,205.0,3,1,2,Básico,Plano,Media,Intermedio,46905000
+OBRA-0511,78.2,1,1,1,Básico,Plano,Baja,Fácil,23000000
+OBRA-0512,181.6,4,2,1,Básico,Pendiente moderada,Baja,Intermedio,53555000
+OBRA-0513,158.9,3,1,2,Estándar,Plano,Media,,41303000
+OBRA-0514,214.7,5,2,1,Estándar,Pendiente moderada,Media,Intermedio,87308000
+OBRA-0515,78.5,1,1,2,Básico,Plano,Alta,Intermedio,29186000
+OBRA-0516,,3,2,2,Estándar,Pendiente moderada,Baja,Fácil,40986000
+OBRA-0517,225.0,4,2,1,Básico,Plano,Media,Fácil,67936000
+OBRA-0518,266.4,6,3,2,Básico,Plano,Baja,Fácil,72937000
+OBRA-0519,237.1,4,3,2,Estándar,Plano,Media,Fácil,78960000
+OBRA-0520,253.4,4,2,2,Básico,Pendiente pronunciada,Baja,Fácil,78992000
+OBRA-0521,141.6,3,1,1,Básico,Plano,Media,Intermedio,38119000
+OBRA-0522,147.7,3,,2,Estándar,Plano,Media,Fácil,47590000
+OBRA-0523,193.4,4,2,1,Básico,Pendiente pronunciada,Media,Fácil,67371000
+OBRA-0524,236.3,6,4,2,Premium,Pendiente moderada,Baja,Intermedio,103813000
+OBRA-0525,275.6,5,2,1,Estándar,Plano,Media,Intermedio,91045000
+OBRA-0526,,3,1,2,Estándar,Pendiente moderada,Media,Fácil,73958000
+OBRA-0527,183.8,4,2,2,Estándar,Plano,Media,Fácil,55677000
+OBRA-0528,208.9,3,3,1,Estándar,Plano,Baja,Fácil,57182000
+OBRA-0529,241.0,6,3,1,Premium,Pendiente moderada,Media,Intermedio,122345000
+OBRA-0530,107.1,2,2,1,Premium,Plano,Baja,Fácil,39711000
+OBRA-0531,162.8,4,3,2,Premium,Plano,Baja,Fácil,76979000
+OBRA-0532,149.6,3,2,2,Estándar,Plano,Media,Fácil,52342000
+OBRA-0533,265.8,5,2,1,Estándar,Plano,Alta,Fácil,98698000
+OBRA-0534,92.6,1,,1,Estándar,Pendiente moderada,Alta,Intermedio,47240000
+OBRA-0535,102.9,1,1,2,Estándar,Pendiente moderada,Media,Intermedio,43218000
+OBRA-0536,106.3,3,3,2,Estándar,Plano,Baja,Fácil,31614000
+OBRA-0537,274.3,6,3,2,Básico,Plano,Alta,Difícil,92719000
+OBRA-0538,216.7,3,2,1,Básico,Pendiente moderada,Media,Fácil,59438000
+OBRA-0539,245.1,6,3,1,Básico,Pendiente moderada,Baja,Fácil,75854000
+OBRA-0540,256.2,4,2,1,Estándar,Plano,Baja,Fácil,86682000
+OBRA-0541,271.8,6,4,2,Básico,Plano,Media,Difícil,78195000
+OBRA-0542,105.7,3,1,1,Básico,Plano,Media,Fácil,33114000
+OBRA-0543,257.2,5,2,2,Premium,Plano,Media,Fácil,110633000
+OBRA-0544,154.8,4,3,1,Estándar,Plano,Alta,Intermedio,61817000
+OBRA-0545,136.4,1,1,2,Estándar,Plano,Media,Fácil,47112000
+OBRA-0546,119.1,3,1,2,Básico,Plano,Media,Intermedio,34094000
+OBRA-0547,281.3,5,2,1,Estándar,Pendiente moderada,Alta,Difícil,119592000
+OBRA-0548,229.4,3,1,2,Estándar,Pendiente pronunciada,Media,Fácil,91339000
+OBRA-0549,198.4,4,1,1,Estándar,Pendiente moderada,Media,Fácil,70049000
+OBRA-0550,86.6,2,2,1,Estándar,Plano,Baja,Intermedio,26788000
+OBRA-0551,249.7,4,2,1,Básico,Plano,Media,Intermedio,63312000
+OBRA-0552,172.4,4,2,1,Básico,Pendiente moderada,Media,Fácil,58041000
+OBRA-0553,256.5,5,4,1,Estándar,Plano,Media,Fácil,75507000
+OBRA-0554,201.5,3,1,1,Estándar,Plano,Baja,Fácil,58002000
+OBRA-0555,133.4,2,1,3,Estándar,Pendiente moderada,Media,Fácil,45128000
+OBRA-0556,184.5,3,1,1,Estándar,Pendiente moderada,Baja,Fácil,66295000
+OBRA-0557,246.8,5,2,2,Básico,Plano,Media,Fácil,79056000
+OBRA-0558,127.4,3,2,1,Premium,Plano,Media,Fácil,58629000
+OBRA-0559,129.7,3,1,1,Estándar,,Baja,Fácil,52031000
+OBRA-0560,216.5,3,3,2,Premium,Plano,Media,Intermedio,101940000
+OBRA-0561,209.8,4,4,1,Premium,Pendiente moderada,Baja,Fácil,99321000
+OBRA-0562,118.3,2,1,1,Estándar,Plano,Alta,Difícil,51420000
+OBRA-0563,254.1,4,2,2,Estándar,Pendiente moderada,Baja,Fácil,91095000
+OBRA-0564,217.1,3,,2,Básico,Plano,Media,Fácil,68138000
+OBRA-0565,127.6,3,2,2,Estándar,Plano,Media,Fácil,54942000
+OBRA-0566,76.3,2,2,1,Premium,Pendiente moderada,Media,Fácil,41475000
+OBRA-0567,89.8,2,2,1,Estándar,Pendiente moderada,Alta,Fácil,38267000
+OBRA-0568,235.7,5,3,1,Estándar,Pendiente pronunciada,Baja,Fácil,89763000
+OBRA-0569,259.7,6,3,2,Estándar,Pendiente pronunciada,Media,Fácil,107797000
+OBRA-0570,163.5,4,3,1,Básico,,Media,,51482000
+OBRA-0571,158.1,5,3,2,Estándar,Plano,Media,Fácil,55618000
+OBRA-0572,184.5,3,1,1,Estándar,Plano,Media,Fácil,58906000
+OBRA-0573,145.8,1,1,2,Premium,Plano,Media,Fácil,63100000
+OBRA-0574,238.9,4,2,1,Básico,Pendiente moderada,Media,Intermedio,68209000
+OBRA-0575,71.9,1,1,1,Básico,Plano,Media,Fácil,23000000
+OBRA-0576,145.5,3,2,1,Premium,Plano,Baja,Fácil,60759000
+OBRA-0577,167.4,4,3,1,Premium,Plano,Media,Fácil,72095000
+OBRA-0578,106.7,2,1,1,Básico,Plano,Baja,Difícil,28647000
+OBRA-0579,289.0,5,2,3,Estándar,Plano,Media,Intermedio,93728000
+OBRA-0580,150.8,3,1,1,Estándar,Plano,Baja,Fácil,35565000
+OBRA-0581,109.0,2,1,1,Estándar,Pendiente moderada,Media,Fácil,36021000
+OBRA-0582,108.5,1,1,2,Premium,Plano,Baja,Fácil,34018000
+OBRA-0583,93.6,3,2,1,Estándar,,Baja,Intermedio,32612000
+OBRA-0584,238.3,3,1,1,Estándar,Plano,Media,Intermedio,83097000
+OBRA-0585,215.2,3,2,1,Estándar,Pendiente moderada,Media,Intermedio,82293000
+OBRA-0586,94.6,2,1,1,Estándar,Pendiente moderada,Media,Fácil,34188000
+OBRA-0587,99.4,3,1,1,Premium,Pendiente pronunciada,Baja,Intermedio,52057000
+OBRA-0588,284.4,6,3,1,Estándar,Pendiente moderada,Media,Fácil,101463000
+OBRA-0589,219.6,4,2,2,Premium,Pendiente moderada,Baja,Intermedio,110471000
+OBRA-0590,71.8,1,1,1,Estándar,Plano,Media,Fácil,25294000
+OBRA-0591,260.5,6,3,1,Estándar,Pendiente moderada,Media,Fácil,95542000
+OBRA-0592,127.0,2,1,1,Estándar,Plano,Baja,Difícil,43075000
+OBRA-0593,116.9,2,1,2,Estándar,Pendiente moderada,Alta,Intermedio,44248000
+OBRA-0594,95.9,2,2,1,Estándar,Pendiente moderada,Media,Fácil,39091000
+OBRA-0595,252.3,6,3,1,Estándar,Plano,Media,Fácil,80286000
+OBRA-0596,243.9,6,3,1,Estándar,Plano,Media,Fácil,77499000
+OBRA-0597,236.6,6,3,2,Estándar,Pendiente pronunciada,Media,Fácil,97323000
+OBRA-0598,241.8,5,4,1,Estándar,Pendiente moderada,Media,Fácil,92208000
+OBRA-0599,98.7,1,1,2,Estándar,Plano,Alta,Fácil,49230000
+OBRA-0600,194.6,2,1,1,Básico,Plano,Baja,Fácil,45272000

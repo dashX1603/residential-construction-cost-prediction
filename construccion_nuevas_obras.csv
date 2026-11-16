@@ -1,0 +1,13 @@
+﻿id_proyecto,area_construida_m2,numero_habitaciones,numero_banos,numero_pisos,nivel_acabados,tipo_terreno,complejidad_diseno,acceso_obra
+NUEVO-01,85,2,1,1,Básico,Plano,Baja,Fácil
+NUEVO-02,110,3,2,1,Estándar,Plano,Media,Fácil
+NUEVO-03,130,3,2,2,Estándar,Pendiente moderada,Media,Intermedio
+NUEVO-04,155,4,3,2,Premium,Plano,Alta,Fácil
+NUEVO-05,180,4,3,2,Estándar,Pendiente pronunciada,Alta,Difícil
+NUEVO-06,205,5,3,2,Premium,Pendiente moderada,Alta,Intermedio
+NUEVO-07,90,2,1,1,Básico,Pendiente pronunciada,Baja,Intermedio
+NUEVO-08,125,3,2,1,Premium,Plano,Media,Fácil
+NUEVO-09,245,5,4,2,Estándar,Plano,Alta,Difícil
+NUEVO-10,275,6,4,3,Premium,Pendiente pronunciada,Alta,Difícil
+NUEVO-11,160,4,2,1,Básico,Pendiente moderada,Media,Fácil
+NUEVO-12,195,4,3,2,Estándar,Plano,Media,Intermedio
